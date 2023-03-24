@@ -2,6 +2,6 @@
 
 
 
-- 🌱 I’m currently learning HTML, CSS, javaScript, SQL, Node js
+- 🌱 I’m currently learning HTML, CSS, javaScript, SQL, Node js, React
 
 
